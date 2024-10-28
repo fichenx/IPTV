@@ -31,7 +31,7 @@
 河北影视剧,http://www.xingwen.online:9810/rtp/239.253.92.173:6003$河北联通组播
 河北少儿科教,http://www.xingwen.online:9810/rtp/239.253.92.174:6004$河北联通组播
 河北经济生活,http://www.xingwen.online:9810/rtp/239.253.92.171:6001$河北联通组播
-石家庄新闻,http://www.xingwen.online:9810/rtp/239.253.92.149:6035$河北联通组播
+石家庄新闻综合,http://www.xingwen.online:9810/rtp/239.253.92.149:6035$河北联通组播
 石家庄娱乐,http://www.xingwen.online:9810/rtp/239.253.92.93:8120$河北联通组播
 石家庄生活,http://www.xingwen.online:9810/rtp/239.253.92.94:8121$河北联通组播
 石家庄都市,http://www.xingwen.online:9810/rtp/239.253.92.95:8122$河北联通组播
@@ -47,7 +47,7 @@
 河北影视剧,http://itms.xznet.org:41097/udp/239.254.200.20:6000
 河北少儿科教,http://itms.xznet.org:41097/udp/239.254.200.21:6000
 河北经济生活,http://itms.xznet.org:41097/udp/239.254.200.18:6000
-石家庄新闻,http://itms.xznet.org:41097/udp/239.254.200.157:6000
+石家庄新闻综合,http://itms.xznet.org:41097/udp/239.254.200.157:6000
 石家庄娱乐,http://itms.xznet.org:41097/udp/239.254.200.29:6000
 石家庄生活,http://itms.xznet.org:41097/udp/239.254.200.30:6000
 石家庄都市,http://itms.xznet.org:41097/udp/239.254.200.31:6000
